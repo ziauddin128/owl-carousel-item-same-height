@@ -15,6 +15,7 @@
 .safeguard_item
 {
   height: 100%;
+  margin: 10px;
   border-radius: 10px;
   overflow: hidden;
   background-color: white;
